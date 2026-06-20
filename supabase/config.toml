@@ -1,0 +1,5 @@
+# Minimal Supabase CLI config. Replace project_id after `supabase link`.
+project_id = "expense-tracker"
+
+[functions.parse-receipt]
+verify_jwt = true
